@@ -1,7 +1,7 @@
 ## Web
 
 ### HTTP
-- https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177
+- [HTTP: The Protocol Every Web Developer Must Know - Part 1] (https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 - https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155
 
 ### HTTP/2
