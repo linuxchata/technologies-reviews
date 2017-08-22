@@ -13,3 +13,12 @@
 - [How HTTPS Secures Connections](https://blog.hartleybrody.com/https-certificates/)
 - [How does HTTPS actually work?](https://secaholic.com/how-does-https-actually-work-768e7ce89ea2)
 - [How does HTTPS actually work?](http://robertheaton.com/2014/03/27/how-does-https-actually-work/)
+
+### GraphQL
+
+### Docker
+
+### GIT
+- [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
+
+### .NET Standard
