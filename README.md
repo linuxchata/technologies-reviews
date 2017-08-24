@@ -24,6 +24,6 @@
 ### Docker
 
 ### Architecture
-Onion Architecture
-Clean Architecture
+- Onion Architecture
+- Clean Architecture
 
