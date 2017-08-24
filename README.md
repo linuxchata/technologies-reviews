@@ -1,5 +1,4 @@
 ## Web
-
 ### HTTP
 - [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 - [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
@@ -14,16 +13,18 @@
 - [How does HTTPS actually work?](https://secaholic.com/how-does-https-actually-work-768e7ce89ea2)
 - [How does HTTPS actually work?](http://robertheaton.com/2014/03/27/how-does-https-actually-work/)
 
+## Source Controle
 ### GIT
 - [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
 
+## .NET
 ### .NET Standard
 
+## Architecture
+### Onion Architecture
+### Clean Architecture
+
+## Miscellaneous
 ### GraphQL
 
 ### Docker
-
-### Architecture
-- Onion Architecture
-- Clean Architecture
-
