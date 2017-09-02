@@ -19,6 +19,7 @@
 
 ## .NET
 ### .NET Standard
+### .NET Core 2
 
 ## Architecture
 ### Onion Architecture
@@ -28,3 +29,5 @@
 ### GraphQL
 
 ### Docker
+
+### AKA .NET
