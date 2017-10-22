@@ -18,7 +18,9 @@
 - [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
 
 ## .NET
-### .NET Standard
+### .NET Core and .NET Standard
+- [.NET Standard Versions](https://github.com/dotnet/standard/blob/master/docs/versions.md)
+
 ### .NET Core 2
 
 ## Architecture
