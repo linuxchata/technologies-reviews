@@ -33,8 +33,6 @@
 ### Clean Architecture
 
 ## Miscellaneous
-### GraphQL
-
 ### Docker
 
 ### AKA .NET
