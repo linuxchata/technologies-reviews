@@ -19,7 +19,7 @@
 
 ## .NET
 ### Multithreading
-- [Threading] (http://www.albahari.com/threading/)
+- [Threading](http://www.albahari.com/threading/)
 
 ### .NET Core and .NET Standard
 - [.NET Standard - Demystifying .NET Core and .NET Standard](https://msdn.microsoft.com/en-us/magazine/mt842506?f=255&MSPPError=-2147217396)
