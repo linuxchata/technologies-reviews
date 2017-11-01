@@ -18,6 +18,9 @@
 - [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
 
 ## .NET
+### Multithreading
+- [Threading] http://www.albahari.com/threading/
+
 ### .NET Core and .NET Standard
 - [.NET Standard - Demystifying .NET Core and .NET Standard](https://msdn.microsoft.com/en-us/magazine/mt842506?f=255&MSPPError=-2147217396)
 - [Introducing .NET Standard](https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/)
