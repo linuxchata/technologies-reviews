@@ -29,3 +29,6 @@
 ## CI/CD
 - [Trunk based development and feature toggles](https://www.gocd.org/2018/05/30/ci-microservices-feature-toggles-trunk-based-development.html)
 - [It’s not ci, it’s just ci theatre](https://www.gocd.org/2017/05/16/its-not-CI-its-CI-theatre/)
+
+## Online cources
+- [Udacity CS101](https://eu.udacity.com/course/intro-to-computer-science--cs101)
