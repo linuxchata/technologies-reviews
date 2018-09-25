@@ -25,3 +25,7 @@
 - [.NET Standard - Demystifying .NET Core and .NET Standard](https://msdn.microsoft.com/en-us/magazine/mt842506?f=255&MSPPError=-2147217396)
 - [Introducing .NET Standard](https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/)
 - [.NET Standard Versions](https://github.com/dotnet/standard/blob/master/docs/versions.md)
+
+## CI/CD
+- [Trunk based development and feature toggles](https://www.gocd.org/2018/05/30/ci-microservices-feature-toggles-trunk-based-development.html)
+- [It’s not ci, it’s just ci theatre](https://www.gocd.org/2017/05/16/its-not-CI-its-CI-theatre/)
