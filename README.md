@@ -34,4 +34,4 @@
 
 ## Online cources
 - [Udacity CS101](https://eu.udacity.com/course/intro-to-computer-science--cs101)
-Harvard CS50
+- Harvard CS50
