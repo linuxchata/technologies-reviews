@@ -19,10 +19,6 @@
 - [How does HTTPS actually work?](https://secaholic.com/how-does-https-actually-work-768e7ce89ea2)
 - [How does HTTPS actually work?](http://robertheaton.com/2014/03/27/how-does-https-actually-work/)
 
-## Source Control
-### GIT
-- [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
-
 ## .NET
 ### Multithreading
 - [Threading](http://www.albahari.com/threading/)
@@ -37,6 +33,10 @@
 - [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
 - [Trunk based development and feature toggles](https://www.gocd.org/2018/05/30/ci-microservices-feature-toggles-trunk-based-development.html)
 - [It’s not ci, it’s just ci theatre](https://www.gocd.org/2017/05/16/its-not-CI-its-CI-theatre/)
+
+## Source Control
+### GIT
+- [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
 
 ## Online cources
 - [Udacity CS101](https://eu.udacity.com/course/intro-to-computer-science--cs101)
