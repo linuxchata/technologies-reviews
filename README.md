@@ -1,3 +1,9 @@
+## Architecture
+### Microservices
+
+- [Microservices antipatterns and pitfalls](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls)
+- [5 mistakes to avoid during the transition to microservices](https://messente.com/blog/most-recent/5-mistakes-transition-to-microservices)
+
 ## Web
 ### HTTP
 - [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
