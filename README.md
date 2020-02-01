@@ -40,5 +40,4 @@
 - [Pro Git](https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf)
 
 ## Online cources
-- [Udacity CS101](https://eu.udacity.com/course/intro-to-computer-science--cs101)
 - Harvard CS50
