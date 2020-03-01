@@ -18,6 +18,7 @@
 - [How HTTPS Secures Connections](https://blog.hartleybrody.com/https-certificates/)
 - [How does HTTPS actually work?](https://secaholic.com/how-does-https-actually-work-768e7ce89ea2)
 - [How does HTTPS actually work?](http://robertheaton.com/2014/03/27/how-does-https-actually-work/)
+- [SSL and TLS Deployment Best Practices](https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices)
 
 ## .NET
 ### Multithreading
