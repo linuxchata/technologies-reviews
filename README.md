@@ -4,7 +4,7 @@
 - [Microservices antipatterns and pitfalls](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls)
 - [5 mistakes to avoid during the transition to microservices](https://messente.com/blog/most-recent/5-mistakes-transition-to-microservices)
 
-###DDD
+### DDD
 - [Applied Domain-Driven Design](http://www.zankavtaskin.com/2013/09/applied-domain-driven-design-ddd-part-1.html)
 - [Northwind Traders](https://github.com/jasontaylordev/NorthwindTraders)
 
