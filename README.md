@@ -8,6 +8,10 @@
 - [Applied Domain-Driven Design](http://www.zankavtaskin.com/2013/09/applied-domain-driven-design-ddd-part-1.html)
 - [Northwind Traders](https://github.com/jasontaylordev/NorthwindTraders)
 
+### IoT
+- [Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud](https://towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5)
+- [Azure IoT reference architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/iot)
+
 ## Web
 ### HTTP
 - [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
