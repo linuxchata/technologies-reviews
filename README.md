@@ -9,6 +9,7 @@
 - [Northwind Traders](https://github.com/jasontaylordev/NorthwindTraders)
 
 ### IoT
+- [A curated list of awesome Internet of Things projects and resources](https://github.com/HQarroum/awesome-iot)
 - [Azure IoT reference architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/iot)
 - [A brief introduction to two data processing architectures — Lambda and Kappa for Big Data](https://towardsdatascience.com/a-brief-introduction-to-two-data-processing-architectures-lambda-and-kappa-for-big-data-4f35c28005bb)
 - [Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud](https://towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5)
