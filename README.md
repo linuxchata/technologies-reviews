@@ -55,3 +55,6 @@
 
 ## Online cources
 - Harvard CS50
+
+## Books
+- [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
